@@ -1,7 +1,7 @@
 # NLP assignment
-name: stanley edward
-roll no: RA2211027010003
-section: AD1
+name: Stanley Edward \
+roll no: RA2211027010003 \
+section: AD1 
 
 
 ### rnn performance
